@@ -1,0 +1,27 @@
+
+<nav>
+<a href=""> Главная </a>
+<a href=""> button1 </a>
+<a href=""> button2 </a>
+<a class="log_in" href=""> Войти  </a>
+</nav>
+
+<style>
+	nav {  
+     background:#008080;
+     padding:17px;
+     }
+nav a{
+color:#CD5C5C;
+padding:17px;
+text-decorations:none
+}
+.log_in{
+border-radius:17px;
+background:black;
+padding:8px;
+}
+   
+
+
+</style>
